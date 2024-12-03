@@ -6,6 +6,7 @@ matplotlib
 seaborn
 unicorn
 uvicorn
+pip install --upgrade pip
 my_application
 untitled14
 
