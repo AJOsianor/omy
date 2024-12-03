@@ -6,7 +6,7 @@ matplotlib
 seaborn
 unicorn
 uvicorn
-python==24.12.7
+python==3.12.7
 my-application
 absl-py==2.1.0
 appdirs==1.4.4
