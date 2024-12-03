@@ -6,5 +6,5 @@ matplotlib
 seaborn
 unicorn
 uvicorn
-python-3.7
+python
 my-application
