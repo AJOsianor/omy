@@ -4,6 +4,9 @@ scikit-learn
 matplotlib
 seaborn
 unicorn
+gunicorn
+uvicorn
+jupyter
 
 
 
