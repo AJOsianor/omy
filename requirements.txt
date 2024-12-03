@@ -60,10 +60,6 @@ PyQt5==5.15.10
 
 PyQtWebEngine==5.15.6
 
-python-pptx==1.21.2
-
-
-
 
 s3transfer==0.10.4
 
