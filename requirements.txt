@@ -6,7 +6,7 @@ matplotlib
 seaborn
 unicorn
 uvicorn
-pip install
+pip-install
 my_application
 untitled14
 
