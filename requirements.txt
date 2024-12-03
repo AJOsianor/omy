@@ -6,7 +6,7 @@ seaborn
 unicorn
 gunicorn
 uvicorn
-init_.ipynb
+ipynb
 
 
 
