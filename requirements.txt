@@ -35,10 +35,7 @@ jsonpointer==2.1
 keras==3.6.0
 
 lambda==0.0.1
-lazy-object-proxy @ file:///C:/b/abs_19td_nzb6n/croot/lazy-object-proxy_1712908735070/work
-lazy_loader @ file:///C:/b/abs_3fs2i5w5p3/croot/lazy_loader_1718176758844/work
-lckr_jupyterlab_variableinspector @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/jupyterlab-variableinspector_1709167201477/work
-libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
+
 libclang==18.1.1
 
 mkl-service==2.4.0
