@@ -8,13 +8,13 @@ gunicorn
 uvicorn
 jupyter
 
-project/
-├── your_application/
-│   ├── __init__.py
-│   ├── main.py
-│   └── other_module.py
-├── requirements.txt
-└── start.sh
+project
+your_application
+init__.py
+main.py
+ther_module.py
+requirements.txt
+start.sh
 
 
 
