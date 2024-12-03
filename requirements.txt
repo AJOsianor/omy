@@ -8,10 +8,6 @@ unicorn
 uvicorn
 Render
 
-
-my-application-python
-
-
 absl-py==2.1.0
 appdirs==1.4.4
 astunparse==1.6.3
