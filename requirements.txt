@@ -60,7 +60,7 @@ PyQt5==5.15.10
 
 PyQtWebEngine==5.15.6
 
-python-pptx==1.12.2
+python-pptx==1.21.2
 
 
 
