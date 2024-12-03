@@ -7,6 +7,6 @@ seaborn
 unicorn
 uvicorn
 pip-install
-my_application_24.0
+
 untitled14
 
