@@ -6,3 +6,4 @@ matplotlib
 seaborn
 unicorn
 uvicorn
+pip 24.3.1
