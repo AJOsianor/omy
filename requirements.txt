@@ -6,7 +6,6 @@ seaborn
 unicorn
 gunicorn
 uvicorn
-jupyter_notebook
 init__.py
 main.py
 ther_module.py
