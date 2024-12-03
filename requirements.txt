@@ -6,5 +6,5 @@ matplotlib
 seaborn
 unicorn
 uvicorn
-pip-python-24.3.1
+pip-python-3.8.1
 my-application
