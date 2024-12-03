@@ -7,7 +7,7 @@ seaborn
 unicorn
 uvicorn
 Render
-unfrozen_importlib._bootstrap
+importlib._bootstrap
 in_gcd_import
 in_find_and_load
 in_find_and_load_unlocked
