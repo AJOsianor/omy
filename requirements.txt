@@ -8,7 +8,6 @@ gunicorn
 uvicorn
 jupyter
 
-project
 your_application
 init__.py
 main.py
