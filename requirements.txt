@@ -7,7 +7,6 @@ unicorn
 gunicorn
 uvicorn
 ipynb
-
-
+jupyter
 
 
