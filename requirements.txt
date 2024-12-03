@@ -9,7 +9,6 @@ uvicorn
 init__.py
 main.py
 ther_module.py
-requirements.txt
 start.sh
 
 
