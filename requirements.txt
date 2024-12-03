@@ -6,7 +6,6 @@ seaborn
 unicorn
 gunicorn
 uvicorn
-ther_module.py
 start.sh
 init_.ipynb
 
