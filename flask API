@@ -1,0 +1,39 @@
+from flask import Flask, jsonify, request
+import pandas as pd
+
+# Initialize the Flask application
+app = Flask(__name__)
+
+# Load the dataset
+data_path = "customer_segmentation_data.csv"
+df = pd.read_csv(data_path)
+
+@app.route('/')
+def home():
+    return "Welcome to the Customer Segmentation API!"
+
+@app.route('/dataset/info', methods=['GET'])
+def dataset_info():
+    """Return basic information about the dataset."""
+    info = {
+        "columns": df.columns.tolist(),
+        "shape": df.shape,
+        "dtypes": df.dtypes.astype(str).to_dict()
+    }
+    return jsonify(info)
+
+@app.route('/dataset/head', methods=['GET'])
+def dataset_head():
+    """Return the first few rows of the dataset."""
+    num_rows = request.args.get('rows', default=5, type=int)
+    return df.head(num_rows).to_json(orient='records')
+
+@app.route('/dataset/stats', methods=['GET'])
+def dataset_stats():
+    """Return basic statistics of numerical columns."""
+    stats = df.describe().to_dict()
+    return jsonify(stats)
+
+# Run the app
+if __name__ == '__main__':
+    app.run(debug=True)
