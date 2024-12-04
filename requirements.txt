@@ -4,9 +4,7 @@ scikit-learn
 matplotlib
 seaborn
 unicorn
-gunicorn
-uvicorn
-ipynb
-jupyter
+wsgi
+json
 
 

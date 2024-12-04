@@ -1,0 +1,7 @@
+project/
+├── your_application/
+│   ├── __init__.py
+│   ├── main.py
+│   └── other_module.py
+├── requirements.txt
+└── start.sh
