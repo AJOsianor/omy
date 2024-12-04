@@ -17,3 +17,6 @@ summarytools
 pypi
 pip
 pip-upgrade
+google
+edge
+firefox
