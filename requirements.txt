@@ -14,3 +14,4 @@ app
 pip -install
 summarytools
 pypi
+pip
