@@ -11,7 +11,7 @@ flask
 plotly
 jsonify
 edge
-chrome
+
 pip -install
 pip
 
