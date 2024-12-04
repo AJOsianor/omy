@@ -8,6 +8,6 @@ uvicorn
 jupyter
 nbformat
 flask
-pickle
+
 subprocess
 plotly
