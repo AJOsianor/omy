@@ -19,3 +19,4 @@ pip
 pip-upgrade
 google
 edge
+gunicorn
