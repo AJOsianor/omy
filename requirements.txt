@@ -15,3 +15,4 @@ pip -install
 summarytools
 pypi
 pip
+--upgrade pip
