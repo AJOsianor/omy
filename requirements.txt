@@ -9,3 +9,5 @@ jupyter
 nbformat
 flask
 plotly
+jsonify
+app
