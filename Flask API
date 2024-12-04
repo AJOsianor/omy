@@ -21,7 +21,7 @@
     "app = Flask(__my_final_project__)\n",
     "\n",
     "# Load your pre-trained clustering model\n",
-    "with open('Customer-Segmentation.pkl', 'rb') as file:\n",
+    "with open('kmeans_model.pkl', 'rb') as file:\n",
     "    clustering_model = pickle.load(file)\n",
     "\n",
     "@app.route('/')\n",
