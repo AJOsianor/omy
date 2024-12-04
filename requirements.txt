@@ -6,5 +6,5 @@ seaborn
 unicorn
 uvicorn
 jupyter
-url
+py.projects
 flask
