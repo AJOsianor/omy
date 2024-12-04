@@ -11,5 +11,5 @@ flask
 plotly
 jsonify
 app
-pip install --upgrade pip
+pip -install
 summarytools
