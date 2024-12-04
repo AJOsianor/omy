@@ -17,5 +17,4 @@ pypi
 port
 pip
 pip-upgrade
-google
-edge
+
