@@ -1,4 +1,8 @@
-pandas
+app.py
+requirements.txt    
+runtime.txt
+static
+templates
 numpy
 scikit-learn
 matplotlib
