@@ -21,4 +21,3 @@ google
 edge
 gunicorn
 render
-guicon
