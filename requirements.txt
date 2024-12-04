@@ -13,3 +13,4 @@ jsonify
 app
 pip -install
 summarytools
+pypi
