@@ -15,5 +15,5 @@ pip -install
 pypi
 port
 pip
-pip-upgrade
+
 
