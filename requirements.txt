@@ -12,7 +12,6 @@ plotly
 jsonify
 build
 pip -install
-summarytools
 pypi
 port
 pip
