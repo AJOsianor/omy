@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 import pandas as pd
 
 # Initialize the Flask application
-app = Flask(__name__)
+app = Flask(kmeans_model)
 
 # Load the dataset
 data_path = "customer_segmentation_data.csv"
