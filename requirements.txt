@@ -10,7 +10,7 @@ nbformat
 flask
 plotly
 jsonify
-app
+build
 pip -install
 summarytools
 pypi
