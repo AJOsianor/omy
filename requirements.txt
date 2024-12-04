@@ -6,4 +6,3 @@ seaborn
 unicorn
 uvicorn
 jupyter
-http
